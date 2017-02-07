@@ -1,0 +1,2 @@
+After cleaning up the rollingsales_brooklyn.csv data and removed the outliers, we find that by doing a log transformation of the data
+we see a linear relationship where as the gross square feet of a house goes up, the sale price of the house goes up as well.

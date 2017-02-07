@@ -1,0 +1,1 @@
+This project is to analyze the rollingsales_brooklyn.csv data, clean up the data, and remove any outliers.  Then we will analyze the data for any trends.  All using R to complete this project.
